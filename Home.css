@@ -1,0 +1,36 @@
+h2{
+    font-size: 220%;
+    color:  #E82583;
+    align-content: center;
+}
+
+h3{
+    font-size: 100%;
+    color:  red;
+    align-content: center;
+
+}
+a {
+    height: 20px;
+    color:#E82583;
+    font-family: cursive;
+}
+body {
+    margin: auto;
+    font-family: cursive;
+    font-size: 20px;
+    margin: 2px;
+    padding: 70px 0;
+    border: 3px solid red;
+    align-content: center;
+    height: auto;
+    width:  auto;
+    text-align: center;
+
+}
+img {
+        margin-left: auto;
+        margin-right: auto;
+        width: 200%;
+    }
+    
